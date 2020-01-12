@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">MovieDB</string>
+<string name="title_home">Movies</string>
+<string name="title_dashboard">Series</string>
+<string name="title_notifications">Favorites</string>
+<string name="genre">Genre</string>
+</resources>
